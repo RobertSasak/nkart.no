@@ -1,0 +1,32 @@
+{
+  "name": "nkart.no",
+  "version": "0.0.1",
+  "description": "Norgeskart is map of Norway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobertSasak/nkart.no.git"
+  },
+  "keywords": [
+    "norway",
+    "map",
+    "kart",
+    "norge"
+  ],
+  "author": "Robert Sasak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertSasak/nkart.no/issues"
+  },
+  "homepage": "https://github.com/RobertSasak/nkart.no",
+  "devDependencies": {
+    "browser-sync": "^2.11.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-file-include": "^0.13.7",
+    "gulp-rename": "^1.2.2"
+  }
+}
